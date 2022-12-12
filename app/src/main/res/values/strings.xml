@@ -11,4 +11,13 @@ architecture design of web applications using Java and JavaScript Technologies. 
 in gathering and analyzing requirements to ensure client’s business requirements are met.</string>
     <string name="experience">Languages: Java, PHP Web: JavaScript, React.js, Node.js, TypeScript, Angular, HTML5, CSS3, XML, Bootstrap, Tailwind CSS Web Services: JSON, Restful, SOAP Web and Application Servers: Apache, Tomcat Frameworks: React, Express, Spring (Data, Dependency Injection, Security, AOP), Hibernate, Databases: MongoDB, MySQL, Postgres Design Patterns: Observer, Singleton, Chain of Responsibility, Proxy, Decorator, Prototype, Factory, Factory Method, Template, Command, Strategy, Adapter SDLC: Agile/Scrum, Waterfall Tools: Git, GitHub, Postman, IntelliJ Platforms: Windows, Linux</string>
     <string name="about_me">A highly focused software developer with a great passion for developing innovative solutions and, giving attention to the details. I am very enthusiastic and passionate about my work.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
 </resources>
