@@ -78,10 +78,10 @@ class ContactFragment : Fragment() , View.OnClickListener{
                 dialIntent.data = Uri.parse("tel:" + "15712648961")
                 startActivity(dialIntent)
             }
-            R.id.emailTV -> {
+            R.id.mailid -> {
                 sendEmail("rbekele@miu.edu","Email From CV App","Hey Reeziz")
             }
-            R.id.linkdinTV -> {
+            R.id.linkedInId -> {
                 val openURLinked = Intent(android.content.Intent.ACTION_VIEW)
                 openURLinked.data = Uri.parse("https://www.linkedin.com/in/rebecca-yilma-bekele/")
                 startActivity(openURLinked)
