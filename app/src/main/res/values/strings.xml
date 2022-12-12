@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CV Builder</string>
+    <string name="first_fragment">Home</string>
+    <string name="second_fragment">About Me</string>
+    <string name="third_fragment">Work</string>
+    <string name="contact">Contact</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="careerNote">Efficient Full Stack Developer with 4 years of hands-on experience developing concepts and optimizing
+architecture design of web applications using Java and JavaScript Technologies. Demonstrated expertise
+in gathering and analyzing requirements to ensure client’s business requirements are met.</string>
+    <string name="experience">Languages: Java, PHP Web: JavaScript, React.js, Node.js, TypeScript, Angular, HTML5, CSS3, XML, Bootstrap, Tailwind CSS Web Services: JSON, Restful, SOAP Web and Application Servers: Apache, Tomcat Frameworks: React, Express, Spring (Data, Dependency Injection, Security, AOP), Hibernate, Databases: MongoDB, MySQL, Postgres Design Patterns: Observer, Singleton, Chain of Responsibility, Proxy, Decorator, Prototype, Factory, Factory Method, Template, Command, Strategy, Adapter SDLC: Agile/Scrum, Waterfall Tools: Git, GitHub, Postman, IntelliJ Platforms: Windows, Linux</string>
+    <string name="about_me">A highly focused software developer with a great passion for developing innovative solutions and, giving attention to the details. I am very enthusiastic and passionate about my work.</string>
+</resources>
